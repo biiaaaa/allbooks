@@ -1,5 +1,6 @@
 # AllBooks
 Olá, sou a Bia estudante da Alura e queria te desejar boas vindas ao allbooks
+Oii, de novo, estou realizando uma alteração direto na main sem a necessidade de criar uma main - atividade 02, exercício 05 :)
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
